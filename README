@@ -1,0 +1,9 @@
+Description:
+
+Spring Boot + Hazlecast Cache + Mongo CRUD(Local) + Docker
+
+
+
+//to run mongo instance:  ./mongod
+// to build image: docker build -f DockerFile -t app .
+// to run: docker run -p 8080:8080 app
